@@ -10,3 +10,4 @@
 - trade
 - buisiness
 - Document
+- AI
